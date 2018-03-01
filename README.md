@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognizer
-NN USING SGD WITH MOMENTUM
+A classifier to predict a handwritten digit.
